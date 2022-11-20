@@ -1,8 +1,8 @@
 # Work-Day-Scheduler
 DESCRIPTION:
 A simple calendar application that allows users to schedule and save events for every hour of the current day. This app runs in the browser and features dynamically updated HTML and CSS with the power of jQuery.
-Check out the deployed website here: //INSERT SITE'S DEPLOYED LINK HERE//
-Or take a look at the project files in my GitHub repository here: //INSERT LINK TO REPOSITORY HERE//
+Check out the deployed website here: https://jelysecalkum.github.io/Work-Day-Scheduler/
+Or take a look at the project files in my GitHub repository here: https://github.com/JelyseCalkum/Work-Day-Scheduler
 
 
 PROJECT SUMMARY:
