@@ -13,6 +13,7 @@ jQuery powers the dynamic rendering of the html content based on user input.
 Day.js is used to manipulate date values for historic data extraction from APIs.
 
 USAGE:
+
 USER STORY
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
